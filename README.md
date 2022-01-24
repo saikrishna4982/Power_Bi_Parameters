@@ -3,4 +3,4 @@ In this report we look at how can we use **Parameters in Powerbi**. In Addition,
 
 However, You can also check other things like **Roles** That are presenting in **Modelling Tab under Security Group**.Further,Bookmarks can be **Found Under View Ribbon**.
 
-Download The **.pbix** File To Check The above Implementations
+Download The **PARAMETER.pbix** File To Check The above Implementations
